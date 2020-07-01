@@ -7,4 +7,4 @@ Browser-cookie-steal](https://github.com/DeEpinGh0st/Browser-cookie-steal)的Chr
 
 项目基于Python3编写，基本原理为读取本地的Chrome的sqlite文件，并使用本地的私钥做解密（所以你从别人那里拖出来的sqlite数据库文件是无法解密的）
 
-你可以直接用Python3运行源码，若本地无python3环境，也可以直接下载编译好的exe文件。
+你可以直接用Python3运行源码，若本地无python3环境，也可以直接[下载编译好的exe文件](https://github.com/lsc183754539/GetChromeSavedPassword/releases/tag/0.9)。

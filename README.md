@@ -1,5 +1,5 @@
 # 获取谷歌浏览器保存的密码
-![python 3.7](https://img.shields.io/badge/Python-3.7-brightgreen.svg)
+![python 3](https://img.shields.io/badge/Python-3.7-brightgreen.svg)
 ![Issues closed in about 12hours](https://img.shields.io/badge/Issues%20closed%20in-about%2012hours-brightgreen)
 ![Listen](https://camo.githubusercontent.com/d82e6ec0070fc8bc370c5d0881395f1c9c0483ce/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f6875692d7a2f466f726769766544422e737667)
 > 获取谷歌浏览器本地保存过的Url、账号、密码等信息

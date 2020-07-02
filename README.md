@@ -1,4 +1,4 @@
-<h1 align="center">获取谷歌浏览器保存的密码<h1>  
+<h1 align="center">获取谷歌浏览器保存的密码</h1>  
 
 ![python 3](https://img.shields.io/badge/Python-3.7-brightgreen.svg)
 ![Issues closed in about 12hours](https://img.shields.io/badge/Issues%20closed%20in-about%2012hours-brightgreen)
